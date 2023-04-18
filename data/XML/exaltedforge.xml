@@ -1,0 +1,44 @@
+<exaltedforge>
+	<monster healthPercentStack="6" />
+	<monster damagePerStack="3" />
+	<monster armorPerStack="2" />
+	<monster maxFiendishCount="2" />
+
+	<config dustPercent="20" />
+	<config dustToSleaver="3" />
+	<config sliverToCore="50" />
+	<config dustPercentUpgrade="75" />
+	<config minDustCap="100" />
+	<config maxDustCap="225" />
+	<config dustFusion="100" />
+	<config dustTransfer="100" />
+	<config chanceBase="85" />
+	<config chanceImproved="15" />
+	<config reduceTierLoss="25" />
+	<config bonusChance="10" />
+
+	<item class="1">
+		<info tier="0" price="25000" weaponBonus="0.5" helmetBonus="2" armorBonus="0.50" />
+	</item>
+	<item class="2">
+		<info tier="0" price="750000" weaponBonus="0.5" helmetBonus="2" armorBonus="0.50" />
+		<info tier="1" price="5000000" weaponBonus="1.05" helmetBonus="4.05" armorBonus="1.03" />
+	</item>
+	<item class="3">
+		<info tier="0" price="4000000" weaponBonus="0.5" helmetBonus="2" armorBonus="0.50" />
+		<info tier="1" price="10000000" weaponBonus="1.05" helmetBonus="4.05" armorBonus="1.03" />
+		<info tier="2" price="20000000" weaponBonus="1.70" helmetBonus="6.20" armorBonus="1.62" />
+	</item>
+	<item class="4">
+		<info tier="0" price="8000000" weaponBonus="0.5" helmetBonus="2" armorBonus="0.50" />
+		<info tier="1" price="20000000" weaponBonus="1.05" helmetBonus="4.05" armorBonus="1.03" />
+		<info tier="2" price="40000000" weaponBonus="1.70" helmetBonus="6.20" armorBonus="1.62" />
+		<info tier="3" price="65000000" weaponBonus="2.45" helmetBonus="8.45" armorBonus="2.28" />
+		<info tier="4" price="100000000" weaponBonus="3.30" helmetBonus="10.80" armorBonus="3" />
+		<info tier="5" price="250000000" weaponBonus="4.25" helmetBonus="13.25" armorBonus="3.78" />
+		<info tier="6" price="750000000" weaponBonus="5.30" helmetBonus="15.80" armorBonus="4.62" />
+		<info tier="7" price="2500000000" weaponBonus="6.45" helmetBonus="18.45" armorBonus="5.52" />
+		<info tier="8" price="8000000000" weaponBonus="7.70" helmetBonus="21.20" armorBonus="6.48" />
+		<info tier="9" price="15000000000" weaponBonus="75.90" helmetBonus="24.05" armorBonus="7.51" />
+	</item>
+</exaltedforge>

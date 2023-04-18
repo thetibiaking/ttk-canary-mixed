@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mage Mount" walkinterval="2000" floorchange="0" script="Vende_montaria.lua">
+	<health now="100" max="100"/>
+	<look type="309" head="38" body="88" legs="88" feet="115" addons="0"/>
+	<parameters>
+		<parameter key="message_greet" value="Salve|PLAYERNAME|. Vendo itens de montaria."/>
+		<parameter key="message_farewell" value="Bye."/>
+		<parameter key="module_keywords" value="1"/>
+		<parameter key="keywords" value="job;"/>
+		<parameter key="keyword_reply1" value=":D"/>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value=
+				"<!---montaria do draptor---->
+				 Harness,0,1000000;
+				<!---montaria do midnight panther---->
+				Leather Whip,0,1000000;
+				<!---montaria do crustacea gigantica---->
+				Giant Shrimp,0,1000000;
+				<!---montaria do undead cavebear---->
+				Maxilla Maximus,0,1000000;
+				<!---montaria do flyning book ---->
+				library Ticket ,0,1000000;
+				<!---montaria do gryphon---->
+				The Regalia of Suon,0,1000000;
+				<!---montaria do gnarlhound---->
+				Golem Wrench,0,1000000;
+				<!---montaria do hellgrip---->
+				 Nail Case,0,1000000;
+				<!---montaria do hibernal moth---->
+				Purple Tendril Lantern,0,1000000;
+				<!---montaria do ironblight---->
+				Iron Loadstone,0,1000000;
+				<!---montaria do Lacewing Moth---->
+				 Turquoise Tendril Lantern ,0,1000000;
+				<!---montaria do magma crawler---->
+				Glow Wine,0,1000000;
+				<!---montaria do mole---->
+				Candle Stump,0,1000000;
+				<!---montaria do noble lion---->
+				The Lion's Heart,0,1000000;
+				<!---montaria do stone rhino---->
+				Astral Shaper Rune,0,1000000;"/>	
+	</parameters>
+</npc>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+	<announce delay="1000" type="event" message="Demodras! The terrible Demodras is attacking the city of Thais!" />
+	<!--Single Spawns-->
+	<singlespawn delay="1000" name="Demodras" x="32356" y="32117" z="10" />
+</raid>

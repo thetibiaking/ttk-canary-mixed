@@ -1,0 +1,9 @@
+otbr
+data/world/otservbr.otbm
+*.log
+client_assertions.txt
+build/*
+config.lua
+src/out/*
+.vs/*
+out/*

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event name="Ratmiral Update" startdate="01/01/2023" enddate="01/01/2024" script="example.lua" >
+		<description description="Venha aproveitar a melhor qualidade em Otserver" />
+		<colors colordark="#235c00" colorlight="#2d7400" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+	<event name="Ratmiral Server" startdate="01/01/2023" enddate="01/01/2024" script="example.lua" >
+		<description description="Venha aproveitar a melhor qualidade em Otserver"/>
+		<colors colordark="#735D10" colorlight="#8B6D05" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+</events>

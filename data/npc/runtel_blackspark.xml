@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Vendas Zaferia" walkinterval="2000" floorchange="0" script="runtel_blackspark.lua">
+	<health now="100" max="100"/>
+	<look type="472" head="59" body="114" legs="0" feet="94" addons="1"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="			
+			flask of rust remover, 9930, 1000;
+			blue quiver, 40683, 400;
+			diamond arrow, 40736, 100;
+			crystalline arrow, 18304, 20;
+			flaming arrow, 7840, 5;
+			onyx arrow, 7365, 7;
+			quiver, 40397, 400;
+			bolt, 2543, 4;
+			piercing bolt, 7363, 5;
+			red quiver, 40684, 400;
+			spectral bolt, 40737, 70;
+			spear, 2389, 9;
+			earth arrow, 7850, 5;
+			Brown Mushroom, 2789, 10;
+			Gill Necklace, 18402, 50000;
+			Prismatic Necklace, 18407, 50000;			
+			collar of blue plasma, 26198, 50000;
+			collar of green plasma, 26199, 50000;
+			collar of red plasma, 26200, 50000;
+			ring of blue plasma, 26185, 80000;
+			ring of green plasma, 26187, 80000;
+			ring of red plasma, 26189, 80000;
+			prismatic ring, 18408 , 200000;
+			
+			avalanche rune, 2274, 57;
+			blank rune, 2260, 10;
+			chameleon rune, 2291, 210;
+			convince creature rune, 2290, 80;
+			cure poison rune, 2266, 65;
+			destroy field rune, 2261, 15;
+			energy field rune, 2277, 38;
+			energy wall rune, 2279, 85;
+			explosion rune, 2313, 31;
+			fire bomb rune, 2305, 147;
+			fire field rune, 2301, 28;
+			fire wall rune, 2303, 61;
+			great fireball rune, 2304, 57;
+			great health potion, 7591, 225;
+			great mana potion, 7590, 144;
+			great spirit potion, 8472, 228;
+			hailstorm rod, 2183, 15000;
+			health potion, 7618, 50;
+			heavy magic missile rune, 2311, 12;
+			intense healing rune, 2265, 95;
+			light magic missile rune, 2287, 4;
+			mana potion, 7620, 56;
+			moonlight rod, 2186, 1000;
+			necrotic rod, 2185, 5000;
+			northwind rod, 8911, 7500;
+			poison field rune, 2285, 21;
+			poison wall rune, 2289, 52;
+			snakebite rod, 2182, 500;
+			spellbook, 2175, 150;
+			springsprout rod, 8912, 18000;
+			stalagmite rune, 2292, 12;
+			strong health potion, 7588, 115;
+			strong mana potion, 7589, 93;
+			sudden death rune, 2268, 135;
+			supreme health potion, 26031, 625;
+			terra rod, 2181, 10000;
+			ultimate healing rune, 2273, 175;
+			ultimate health potion, 8473, 379;
+			ultimate mana potion, 26029, 438;
+			ultimate spirit potion, 26030, 438;
+			underworld rod, 8910, 22000;
+			wand of cosmic energy, 2189, 10000;
+			wand of decay, 2188, 5000;
+			wand of draconia, 8921, 5000;
+			wand of dragonbreath, 2191, 1000;
+			wand of inferno, 2187, 15000;
+			wand of starstorm, 8920, 18000;
+			wand of voodoo, 8922, 22000;
+			wand of vortex, 2190, 500;
+			exercise rod, 32388, 262500, 500;
+			exercise wand, 32389, 262500, 500;
+			durable exercise rod, 40118, 945000, 1800;
+			durable exercise wand, 40119, 945000, 1800;
+			lasting exercise rod, 40124, 7560000, 14400;
+			lasting exercise wand, 40125, 7560000, 14400;
+			
+			axe ring, 2208, 500;
+			bronze amulet, 2172, 100, 200;
+			club ring, 2209, 500;
+			elven amulet, 2198, 500, 50;
+			garlic necklace, 2199, 100;
+			magic light wand, 2162, 120;
+			power ring, 2166, 100;
+			stealth ring, 2165, 5000;
+			stone skin amulet, 2197, 5000, 5;
+			sword ring, 2207, 500;
+			
+			dragon necklace, 2201, 1000, 200;
+			dwarven ring, 2213, 2000;
+			energy ring, 2167, 2000;
+			life ring, 2168, 900;
+			might ring, 2164, 5000, 20;
+			protection amulet, 2200, 700, 250;
+			ring of healing, 2214, 2000;
+			silver amulet, 2170, 100, 200;
+			strange talisman, 2161, 100, 200;
+			time ring, 2169, 2000;
+			
+			lasting exercise axe, 40121, 7560000, 14400;
+			lasting exercise bow, 40123, 7560000, 14400;
+			lasting exercise club, 40122, 7560000, 14400;
+			lasting exercise sword, 40120, 7560000, 14400;
+			
+			exercise axe, 32385, 262500, 500;
+			exercise bow, 32387, 262500, 500;
+			exercise club, 32386, 262500, 500;
+			exercise sword, 32384, 262500, 500;
+			
+			durable exercise axe, 40115, 945000, 1800;
+			durable exercise bow, 40117, 945000, 1800;
+			durable exercise club, 40116, 945000, 1800;
+			durable exercise sword, 40114, 945000, 1800;"/>
+	</parameters>
+</npc>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Knight Hykrion" walkinterval="20000" floorchange="0" script="raffarook.lua">
+	<health now="100" max="100"/>
+	<look type="131" head="95" body="78" legs="78" feet="95" addons="3"/>
+
+<parameters>
+		<parameter key="message_greet" value="Fala |PLAYERNAME|. Compro os items de hunt. O que você tem pra vender?"/>
+		<parameter key="message_farewell" value="Tchau."/>
+		<parameter key="module_keywords" value="1"/>
+		<parameter key="keywords" value="job;"/>
+		<parameter key="keyword_reply1" value=":D"/>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_sellable" value=
+		"throwing star,2399,42;
+		steel helmet, 2457, 293;
+		plate shield, 2510, 45;
+		battle shield, 2513, 95;
+		viper star, 7366, 45;
+		leopard armor, 3968 , 1000;
+		steel shield, 2509, 80;
+		small diamond, 2145, 300;
+		horseman helmet, 3969, 280;
+		brass armor, 2465, 150;
+		iron helmet, 2459, 190;
+		belted cape, 8872, 500;
+		bow, 2456, 130;
+		dragon necklace, 2201, 100;
+		sniper gloves,5875,2000;
+		deer trophy,7397,3000;
+		wolf trophy,7394,3000;
+		lion trophy,7400,3000;
+		slingshot,5197,35000;
+		small ruby, 2147, 250;
+		ghoul snack, 12423, 60;
+		brown piece of cloth, 5913, 100;
+		pile of grave earth, 12440, 25;
+		scale armor, 2483, 75;
+		viking helmet, 2473, 66;
+		life ring, 2168, 50;
+		garlic necklace, 2199, 50;
+		wolf tooth chain, 2129, 100;
+		star herb, 2800, 15;
+		witch broom, 10569, 60;
+		necrotic rod, 2185, 1000;
+		silver dagger, 2402, 500;
+		bag of apple slices, 13537, 5000;
+		witch hat, 10570, 5000;
+		stuffed toad, 11211, 2500000;
+		reins, 13295, 60000;
+		wand of dragonbreath, 2191, 200;
+		wand of decay, 2188, 1000;
+		medicine pouch, 13506, 2000;"/>	
+	</parameters>
+</npc>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+	<announce delay="1000" type="event" message="Demodras! The evil Demodras is setting fire to the desert of Darashia!" />
+	<!--Single Spawns-->
+	<singlespawn delay="1000" name="Demodras" x="33235" y="32276" z="12" />
+</raid>

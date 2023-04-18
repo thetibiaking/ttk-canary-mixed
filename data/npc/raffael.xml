@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Raffael" walkinterval="2000" floorchange="0" script="raffarook.lua">
+	<health now="100" max="100"/>
+	<look type="140" head="60" body="24" legs="38" feet="0" addons="2"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="
+			light magic missile rune, 2311, 12;
+			cure poison rune, 2266, 65;
+			backpack, 1988, 20;
+			machete, 2420, 35;
+			pick, 2553, 50;
+			scythe, 2550, 50;
+			shovel, 2554, 50;
+			blank rune, 2260, 10;
+			destroy field rune, 2261, 15;
+			energy field rune, 2277, 38;
+			fire field rune, 2301, 28;
+			rope, 2120, 15;
+			torch, 2050, 2;"/>
+	</parameters>
+</npc>

@@ -1,0 +1,11 @@
+local tibiaCoinItem = Action()
+function tibiaCoinItem.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+	player:addTournamentCoinsBalance(1)
+	player:getPosition():sendMagicEffect(CONST_ME_HOLYAREA)
+	player:sendTextMessage("Adicionado pra voce 1 Tournament Coin no seu saldo.")
+	item:remove(1)
+	return true
+end
+
+tibiaCoinItem:id(42152)
+tibiaCoinItem:register()

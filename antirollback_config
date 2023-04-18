@@ -1,0 +1,9 @@
+set $_exitcode = 999
+handle SIGPIPE nostop noprint pass
+run
+set $ec = $_exitcode
+if $ec > 0
+    thread apply all bt full
+		call (void) saveServer()
+end
+quit $ec
