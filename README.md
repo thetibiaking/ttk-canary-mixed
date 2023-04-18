@@ -1,4 +1,4 @@
-# A-1305
+# Canary(OTBR) Mixed
 
 
 Features
