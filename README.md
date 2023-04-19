@@ -1,4 +1,4 @@
-# Canary(OTBR) Mixed
+# Canary(TFS) Mixed
 
 
 #### Features
@@ -9,3 +9,5 @@
  ##### Bosstiary
  ###### Countdown for charges in amulet and rings.
 
+## Compilando
+https://github.com/otland/forgottenserver/wiki/Compiling
