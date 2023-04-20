@@ -15,3 +15,5 @@ https://github.com/otland/forgottenserver/wiki/Compiling
 ## VCPKG
 
 You can also compile with vcpkg.
+
+https://github.com/otland/forgottenserver/wiki/Compiling-on-Windows-%28vcpkg%29
