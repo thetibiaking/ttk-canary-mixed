@@ -9,5 +9,9 @@
  ##### Bosstiary
  ###### Countdown for charges in amulet and rings.
 
-## Compilando
+## Refs
 https://github.com/otland/forgottenserver/wiki/Compiling
+
+## VCPKG
+
+You can also compile with vcpkg.
