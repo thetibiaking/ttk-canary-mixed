@@ -19,7 +19,7 @@ You can also compile with vcpkg.
 https://github.com/otland/forgottenserver/wiki/Compiling-on-Windows-%28vcpkg%29
 
 
-# Advenced Logs
+# Advanced Logs
 
 Check Stats/
 ![image](https://user-images.githubusercontent.com/74227915/233427965-8bc7d497-aaff-4d06-ae89-99df31e53a82.png)
