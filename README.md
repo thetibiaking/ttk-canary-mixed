@@ -26,7 +26,7 @@ Check Stats/
 
 ## LUA
 
-Check your lua calls usage.
+Check your lua calls usage lua.log.
 
 ![image](https://user-images.githubusercontent.com/74227915/233428126-1b821c23-4cda-481e-ab13-56841dba6050.png)
 
