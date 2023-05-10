@@ -2497,7 +2497,12 @@ GlobalStorage = {
 	CobraBastionFlask = 65012,
 	Inquisition = 65013,
 	Yasir = 65014,
-	NightmareIsle = 65015
+	NightmareIsle = 65015,
+	PrimalOrdealQuest = {
+        Gnomcruiter = 65018,
+        GnompronaAcess = 65019,
+        MagmaBubbleTimer = 60162,
+    } 
 }
 
 
