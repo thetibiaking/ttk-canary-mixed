@@ -3,7 +3,7 @@
 
 Este é o projeto Canary (OTBR) Mixed, uma versão modificada do projeto Canary (OTBR) baseado no OTServBR-Global. Você pode ver o histórico do repositório nas [releases](https://github.com/thetibiaking/ttk-canary-mixed/releases).
 
-Este projeto foi criado com o intuito de ser uma base o mais limpa possível, para funcionar como um mecanismo de MMORPG não necessariamente ligado ao Tibia Global, embora também funcione. O OpenTibiaBR - Global foi adaptado para funcionar com o código do Canary, sendo o primeiro repositório a utilizar esse mecanismo.
+Este projeto foi criado com o intuito de ser uma base o mais limpa possível, para funcionar como um mecanismo de MMORPG não necessariamente ligado ao Tibia Global, embora também funcione. O OpenTibiaBR - Global foi adaptado para funcionar com o código [Canary](https://github.com/opentibiabr/canary), sendo o primeiro repositório a utilizar esse mecanismo.
 
 Para se conectar ao servidor e ter uma experiência estável, você pode usar o [otclient](https://github.com/mehah/otclient) do mehah ou o cliente do Tibia. E se quiser fazer alguma edição, confira nossas ferramentas personalizadas.
 
